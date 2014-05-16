@@ -22,4 +22,4 @@
 
 add_lunch_combo aosp_d802-userdebug
 add_lunch_combo full_d802-userdebug
-add_lunch_combo omni_d802-userdebug
+add_lunch_combo du_d802-userdebug
